@@ -11,9 +11,9 @@ Pre-requisites
 Getting Started
 
 This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
-Support
 
-    Google+ Community: https://plus.google.com/communities/105153134372062985968
-    Stack Overflow: http://stackoverflow.com/questions/tagged/android
+Screenshot:
+
+<img src="http://cdn7.staztic.com/app/a/6394/6394735/court-counter-1-0-s-307x512.jpg">
 
 
